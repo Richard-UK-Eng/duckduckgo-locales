@@ -283,7 +283,7 @@ msgstr "All Types"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
-msgstr "Almost there!"
+msgstr "Almost there."
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
@@ -297,7 +297,7 @@ msgstr "Already a fan? %sHelp Spread DuckDuckGo!%s"
 
 msgctxt "mobile promotion on desktop"
 msgid "Also search privately on your iPad, iPhone, or Android!"
-msgstr "Also search privately on your iPad, iPhone, or Android!"
+msgstr "Also search privately on your iPad, iPhone, or Android."
 
 #. Instant Answer Tab Name
 msgid "Alternatives"
@@ -326,7 +326,7 @@ msgstr "Any Duration"
 
 msgctxt "video-license"
 msgid "Any License"
-msgstr "Any License"
+msgstr "Any Licence"
 
 msgctxt "video-resolution"
 msgid "Any Resolution"
@@ -365,7 +365,7 @@ msgid ""
 "information ourselves. All of this privacy protection happens on your device."
 msgstr ""
 "As per our privacy policy, we do not collect or share any personal "
-"information ourselves. All of this privacy protection happens on your device."
+"information. All of this privacy protection happens on your device."
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
@@ -569,7 +569,7 @@ msgstr ""
 "By default settings are stored in non-personal browser cookies (in your "
 "browser). You can use Anonymous Cloud Save to store your settings in a more "
 "permanent way (on a remote server in the cloud). No personally identifiable "
-"information will be stored in the cloud, and your pass phrase will never "
+"information will be stored in the cloud, and your passphrase will never "
 "leave your browser."
 
 #. Instant Answer tab name
@@ -727,7 +727,7 @@ msgstr "China"
 #. http://i.imgur.com/f8Ae6jo.png
 msgctxt "cloudsave"
 msgid "Choose a unique pass phrase for your settings:"
-msgstr "Choose a unique pass phrase for your settings:"
+msgstr "Choose a unique passphrase for your settings:"
 
 #. https://duckduckgo.com/newbang in a list
 msgid "Choose category"
@@ -868,7 +868,7 @@ msgid "Click the %sGeneral%s tab."
 msgstr "Click the %sGeneral%s tab."
 
 msgid "Click the Duck icon at the top of your browser to search!"
-msgstr "Click the Duck icon at the top of your browser to search!"
+msgstr "Click the Duck icon at the top of your browser to search."
 
 msgid "Click the Expand Icon."
 msgstr ""
@@ -1082,7 +1082,7 @@ msgstr "Custom %s"
 
 msgctxt "settings"
 msgid "Customize DuckDuckGo"
-msgstr ""
+msgstr "Customise DuckDuckGo"
 
 msgid "Czech Republic"
 msgstr "Czech Republic"
@@ -1197,7 +1197,7 @@ msgstr "Don't see DuckDuckGo in the list?"
 
 msgctxt "install-extension"
 msgid "Don't see it? %s%s%sClick here to re-download%s"
-msgstr "Don't see it? %s%s%sClick here to re-download%s"
+msgstr "Don't see it? %s%s%sClick here to try again%s"
 
 msgid "Don't see the checkbox? %sFollow these steps%s."
 msgstr "Don't see the checkbox? %sFollow these steps%s."
@@ -1347,7 +1347,7 @@ msgstr ""
 #. http://i.imgur.com/qo0C6MA.png
 msgctxt "settings"
 msgid "Enter a pass phrase"
-msgstr "Enter a pass phrase"
+msgstr "Enter a passphrase"
 
 #. Alias=pseudônimo: pt_pt
 msgid ""
@@ -1361,13 +1361,13 @@ msgstr "Please enter your email address."
 
 msgctxt "cloudsave"
 msgid "Enter your pass phrase to load your settings:"
-msgstr "Enter your pass phrase to load your settings:"
+msgstr "Enter your passphrase to load your settings:"
 
 #. Click "Load Settings" - http://i.imgur.com/3czvc4H.png
 #. Then - http://i.imgur.com/K6c3e4L.png
 msgctxt "settings"
-msgid "Enter your pass phrase to load your settings:"
-msgstr "Enter your pass phrase to load your settings:"
+msgid "Enter your passphrase to load your settings:"
+msgstr "Enter your passphrase to load your settings:"
 
 #. One of the options for the dropdown select list that help to categorize your request.
 #. Inside <a href="https://duckduckgo.com/newbang.html">new !bang page</a>.
@@ -1678,12 +1678,12 @@ msgstr ""
 
 msgctxt "new tab page"
 msgid "Hide Most Visited Sites"
-msgstr ""
+msgstr "Hide Most-visited Sites"
 
 #. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png  
 msgctxt "settings"
 msgid "Hide pass phrase"
-msgstr "Hide pass phrase"
+msgstr "Hide passphrase"
 
 msgctxt "settings"
 msgid "Hides search term from being shown in browser tab/history"
@@ -2751,7 +2751,7 @@ msgid ""
 "browsing mode. We don’t track you &mdash; period."
 msgstr ""
 "Other search engines track your searches even when you’re in private "
-"browsing mode. We don’t track you &mdash; period."
+"browsing mode. We don’t track you &mdash; Full stop."
 
 msgctxt "SERP footer content"
 msgid "Our Crash Course"
@@ -2816,15 +2816,15 @@ msgstr "Page Width"
 
 msgctxt "cloudsave"
 msgid "Pass phrase is already taken."
-msgstr "Pass phrase is allready taken."
+msgstr "Passphrase is already taken."
 
 msgctxt "cloudsave"
 msgid "Pass phrase must be at least 9 characters long"
-msgstr "Pass phrase must be at least 9 characters long"
+msgstr "Passphrase must be at least 9 characters long"
 
 msgctxt "cloudsave"
 msgid "Pass phrase not found"
-msgstr "Pass phrase not found"
+msgstr "Passphrase not found"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then - http://i.imgur.com/pN6edwb.png
@@ -2850,7 +2850,7 @@ msgstr "Past Year"
 
 msgctxt "settings"
 msgid "Personalize DuckDuckGo"
-msgstr ""
+msgstr "Personalise DuckDuckGo"
 
 msgid "Peru"
 msgstr "Peru"
@@ -2905,7 +2905,7 @@ msgstr "Places"
 
 msgctxt "cloudsave"
 msgid "Please enter a pass phrase"
-msgstr "Please enter a pass phrase"
+msgstr "Please enter a passphrase"
 
 msgid "Please select a region"
 msgstr "Please select a region"
@@ -2952,7 +2952,7 @@ msgstr "Press Kit"
 msgid ""
 "Prevent advertisers and corporations from tracking you across the Internet."
 msgstr ""
-"Prevent advertisers and corporations from tracking you across the Internet."
+"Prevent advertisers or company's from tracking you across the Internet."
 
 msgid "Preview"
 msgstr "Preview"
@@ -3036,11 +3036,11 @@ msgstr "Prompt me to anonymously use browser location for better results."
 
 msgctxt "settings"
 msgid "Prompt me to customize my DuckDuckGo experience."
-msgstr ""
+msgstr "Prompt me to customise my DuckDuckGo experience."
 
 msgctxt "settings"
 msgid "Prompt me to personalize my DuckDuckGo experience."
-msgstr ""
+msgstr "Prompt me to personalise my DuckDuckGo experience."
 
 msgctxt "SERP footer content"
 msgid "Protect Your Devices"
@@ -3194,7 +3194,7 @@ msgstr "Result Highlight Colour"
 
 msgctxt "settings"
 msgid "Result Hover, Module, and Dropdown Background Color"
-msgstr ""
+msgstr "Result Hover, Module, and Dropdown Background Colour"
 
 #. in https://duckduckgo.com/params in the top. it is the first header 
 msgid "Result Settings"
@@ -3454,7 +3454,7 @@ msgid "Select %sDuckDuckGo%s and click %sSet as default%s"
 msgstr "Select %sDuckDuckGo%s and click %sSet as default%s"
 
 msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
-msgstr "Select %sDuckDuckGo%s in the Default Search Engine drop down"
+msgstr "Select %sDuckDuckGo%s in the Default Search Engine dropdown"
 
 msgid "Select %sDuckDuckGo%s in the list of search providers"
 msgstr "Select %sDuckDuckGo%s in the list of search providers"
@@ -3501,7 +3501,7 @@ msgid "Select %sSettings%s"
 msgstr ""
 
 msgid "Select %sSettings%s from the drop-down menu."
-msgstr "Select %sSettings%s from the drop-down menu."
+msgstr "Select %sSettings%s from the dropdown menu."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSettings%s, then %sAdvanced settings%s"
@@ -3523,7 +3523,7 @@ msgstr ""
 "options if you prefer)"
 
 msgid "Select DuckDuckGo!"
-msgstr "Select DuckDuckGo!"
+msgstr "Select DuckDuckGo."
 
 msgid "Select a !bang for a direct site search"
 msgstr "Select a !bang for a direct site search"
@@ -3661,11 +3661,11 @@ msgstr "Show page numbers at result page breaks"
 #. Click "Load Settings" - http://i.imgur.com/cii6KqL.png
 #. Then - http://i.imgur.com/nOvjdKb.png
 msgid "Show pass phrase"
-msgstr "Show pass phrase"
+msgstr "Show passphrase"
 
 msgctxt "settings"
 msgid "Show pass phrase"
-msgstr "Show pass phrase"
+msgstr "Show passphrase"
 
 msgctxt "settings"
 msgid "Show sign up form for the DuckDuckGo privacy newsletter"
@@ -3828,7 +3828,7 @@ msgid "Start Using Bangs"
 msgstr "Start using Bangs"
 
 msgid "Start searching!"
-msgstr "Start searching!"
+msgstr "Start searching."
 
 msgctxt "SERP footer content"
 msgid "Stay Informed"
@@ -3887,7 +3887,7 @@ msgstr "Subscribe to our Privacy Crash Course"
 #. http://i.imgur.com/BMM6X3h.png
 msgctxt "settings"
 msgid "Suggest a pass phrase"
-msgstr "Suggest a pass phrase"
+msgstr "Suggest a passphrase"
 
 msgctxt "settings"
 msgid "Suggest different phrase"
@@ -4292,7 +4292,7 @@ msgstr "Use DuckDuckGo Private Search"
 
 msgctxt "mobile promotion on desktop"
 msgid "Use DuckDuckGo private search on your iPad, iPhone, or Android!"
-msgstr "Use DuckDuckGo private search on your iPad, iPhone, or Android!"
+msgstr "Use DuckDuckGo private search on your iPad, iPhone, or Android."
 
 #. Discontinued, don't translate
 msgctxt "settings"
@@ -4423,11 +4423,11 @@ msgstr "We don't store your location. It remains only on your device. %sInfo%s"
 
 msgctxt "homepage onboarding"
 msgid "We don't store your personal info or track you. Ever."
-msgstr "We do not store your personal information nor do we track you. Ever!"
+msgstr "We do not store your personal information nor do we track you. Ever."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal info."
-msgstr "We don't store your personal info."
+msgstr "We don't store your personal information."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't store your personal information."
@@ -4654,7 +4654,7 @@ msgstr "Yes"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr "Yes, new user!"
+msgstr "Yes, new user."
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
@@ -4701,7 +4701,7 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "You're in control. Customize the look-and-feel of DuckDuckGo."
-msgstr "You're in control. Customise the look-and-feel of DuckDuckGo."
+msgstr "You're in control. Customise the look and feel of DuckDuckGo."
 
 #. shown when DDG is selected after eu preference menu on android
 msgctxt "welcome message eu search preference android"
